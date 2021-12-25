@@ -5,7 +5,7 @@ alias ll "ls -l"
 alias lal "ls -al"
 
 ## Source my default fish config
-alias srcfish "source /home/agrawpri/.config/fish/config.fish"
+alias srcfish "source ~/.config/fish/config.fish"
 
 ## Git aliases
 alias ga "git add"
@@ -17,7 +17,8 @@ alias gd "git diff"
 alias gdc "git diff --cached"
 alias gf "git fetch"
 alias gl "git log"
-alias glaf 'git log --all --full-history'
+alias glaf "git log --all --full-history"
+alias glo "git log --oneline"
 alias gpr "git pull --rebase"
 alias gpsh "git push"
 alias gpshf "git push --force"
