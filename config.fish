@@ -29,3 +29,10 @@ alias gs "git status --untracked-files=no"
 alias gsu "git status"
 alias gsh "git show"
 alias gshf "git show --pretty="" --name-only"
+alias grv "git remote -v"
+
+# Docker aliases
+alias dc "docker compose"
+
+# PATH
+set PATH "$PATH:/home/agrawpri/.local/bin:/home/agrawpri/kafka/bin:/home/agrawpri/idea/bin"
