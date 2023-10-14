@@ -1,2 +1,2 @@
-# my-configs
-This repo houses the various configurations I use in my dev environments.
+# dotfiles
+This repo houses various configs I use in my local environments.
